@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UTSproject</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="login">Login\n</string>
+    <string name="register">Register Here</string>
+    <string name="food_list_title">Food and Beverages</string>
+    <string name="back_to_menu">Back to Menu</string>
+    <string name="finish_order">Thanks for your order and please wait for delivering by nearest courier</string>
+    <string name="additional_notes">Additional Notes: Tidak Pedas</string>
+    <string name="ordering_name">Ordering Name: Usep</string>
+    <string name="servings">Number of Servings: 2 pax</string>
+    <string name="food_name">Food Name: Batagor</string>
+    <string name="order_food">Order Food</string>
+</resources>
