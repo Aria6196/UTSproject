@@ -24,7 +24,7 @@ class FoodAdapter(
         holder.foodImage.setImageResource(food.imageResourceId)
 
         holder.itemView.setOnClickListener {
-            onFoodClick(food) // Trigger the callback with the selected food
+            onFoodClick(food)
         }
     }
 

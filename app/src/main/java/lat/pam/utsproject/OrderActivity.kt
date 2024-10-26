@@ -33,7 +33,6 @@ class OrderActivity : AppCompatActivity() {
             intent.putExtra("name", name)
             intent.putExtra("notes", notes)
 
-            // Start ConfirmationActivity
             startActivity(intent)
         }
     }
